@@ -17,11 +17,5 @@ Here are some projects I've been working on:
    - Social media app that allows to find new friends and share own thoughts
 2. [Cinemaster](https://github.com/AshennOne/Cinemaster)
    - Movie review app that allows to share own thoughts about movies, rating them and see ranking.
-
-Feel free to explore this repositories!
-
-## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/dawidrychlik)
-- [Email](mailto:Dawidrychlik2004@gmail.com)
-
+     
 Thank you for visiting my GitHub profile! Have a wonderful day! 😊
