@@ -6,8 +6,8 @@ Hello there! Welcome to my GitHub profile. I'm Dawid Rychlik, a junior .NET deve
 
 - 🌟 Dawid, 20 years, junior who aims to be a fullstack or backend developer
 - 🎓 from 2022 to present - SGGW - Informatics
-- 💼 Looking for a job
-- 🌱 I’m currently learning microservices and signalR
+- 💼 Employed
+- 🌱 I’m currently learning microservices and kubernetes
 
 ## Projects
 
