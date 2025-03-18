@@ -4,9 +4,9 @@ Hello there! Welcome to my GitHub profile. I'm Dawid Rychlik, a junior backend d
 
 ## About Me
 
-- 🌟 Dawid, 20 years, junior who aims to be a fullstack or backend developer
+- 🌟 Dawid, 21 years, junior who aims to be a fullstack or backend developer
 - 🎓 from 2022 to present - SGGW - Computer Science
 - 💼 Employed
-- 🌱 I’m currently learning microservices architecture
+- 🌱 I’m currently speicalist at microservices architecture
      
 Thank you for visiting my GitHub profile! Have a wonderful day! 😊
